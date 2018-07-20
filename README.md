@@ -1,6 +1,6 @@
 텐서플로 활용한 DeepLearning 공부할 때 사용한 예제
 
-교재는 http://www.hanbit.co.kr/store/books/look.php?p_code=B7257101308 을 사용하였다.
+교재는 [골빈 해커의 3분 딥러닝](http://www.hanbit.co.kr/store/books/look.php?p_code=B7257101308)을 사용하였다.
 
 ---------목차----------
 
